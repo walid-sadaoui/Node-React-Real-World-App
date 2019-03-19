@@ -5,11 +5,12 @@
   "main": "app.js",
   "scripts": {
     "start": "node ./app.js",
+    "dev": "nodemon ./app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gothinkster/productionready-node-api.git"
+    "url": "git+https://github.com/walid-sadaoui/Node-React-Real-World-App"
   },
   "license": "ISC",
   "dependencies": {
